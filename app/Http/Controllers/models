@@ -1,0 +1,22 @@
+login by id * => res.partner (id) 
+lang * => res.partner (lang) 
+profile * => res.partner 
+location *
+****************************************************
+my orders * => sale.order (user_id)
+my subscribertions * => sale.subscription (user_id)
+all products * => product.product
+inventory * => product
+all subscriptions coustom * => 6 12 24
+sms code *
+cart * qotations
+my products *
+my order * salse
+
+plans
+promocode
+wallet
+subscription types 
+Receive options
+
+
